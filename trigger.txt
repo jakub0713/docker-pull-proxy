@@ -1,1 +1,1 @@
-nginx:alpine registry.cn-hangzhou.aliyuncs.com/docker_jakub/nginx:alpine
+xprobe/xinference:latest registry.cn-hangzhou.aliyuncs.com/docker_jakub/xprobe/xinference:latest
