@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+xprobe/xinference registry.cn-hangzhou.aliyuncs.com/docker_jakub/xprobe/xinference:latest
